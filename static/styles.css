@@ -1,0 +1,20 @@
+body{
+    background-color: #626F47;
+}
+
+h1{
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+    color: white;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: #A4B465;
+    width: 600px;
+    height: 700px;
+    color: black;
+    padding: 50px;
+}
